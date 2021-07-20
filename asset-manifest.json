@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.ca5450c6.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.ca5450c6.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.77f3c5c3.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.77f3c5c3.js.map",
-    "static/js/2.25442c46.chunk.js": "/React_Portfolio/static/js/2.25442c46.chunk.js",
-    "static/js/2.25442c46.chunk.js.map": "/React_Portfolio/static/js/2.25442c46.chunk.js.map",
-    "static/js/3.9b245b38.chunk.js": "/React_Portfolio/static/js/3.9b245b38.chunk.js",
-    "static/js/3.9b245b38.chunk.js.map": "/React_Portfolio/static/js/3.9b245b38.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.91a0e694.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.91a0e694.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.adf930bf.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.adf930bf.js.map",
+    "static/js/2.4cd0566a.chunk.js": "/React_Portfolio/static/js/2.4cd0566a.chunk.js",
+    "static/js/2.4cd0566a.chunk.js.map": "/React_Portfolio/static/js/2.4cd0566a.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/React_Portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.25442c46.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.25442c46.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React_Portfolio/static/media/logo.6ce24c58.svg"
+    "static/js/2.4cd0566a.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.4cd0566a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.77f3c5c3.js",
-    "static/js/2.25442c46.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.ca5450c6.chunk.js"
+    "static/js/runtime-main.adf930bf.js",
+    "static/js/2.4cd0566a.chunk.js",
+    "static/js/main.91a0e694.chunk.js"
   ]
 }
