@@ -1,11 +1,11 @@
 import React from 'react'
-import Nav from './Nav'
+import Container from "./Container";
 
 function Header() {
     return(
         <div className='bg-red-200'>
             <div className='flex justify-center py-3 text-4xl'>Portfolio</div>
-            <Nav/>
+             <Container/>
         </div>
     )
 }
