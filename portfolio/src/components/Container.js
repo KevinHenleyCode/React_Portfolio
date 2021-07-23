@@ -7,16 +7,16 @@ import Resume from './pages/Resume'
 
 export default function Container() {
 
-    const [getPage, setPage] = useState('AboutMe')
+    const [currentPage, setPage] = useState('AboutMe')
 
     const render  = () => {
-        if (getPage === 'AboutMe'){
+        if (currentPage === 'AboutMe'){
             return <AboutMe/>
         }
-        if (getPage === 'Portfolio'){
+        if (currentPage === 'Portfolio'){
             return <Portfolio/>
         }
-        if (getPage === 'Contact'){
+        if (currentPage === 'Contact'){
             return <Contact/>
         }
             return <Resume/>
@@ -27,7 +27,7 @@ export default function Container() {
     return (
         <div>
             
-            <Nav getPage={getPage} pageChange={pageChange}/>
+            <Nav currentPage={currentPage} pageChange={pageChange}/>
             {render()}
 
         </div>
