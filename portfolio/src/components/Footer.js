@@ -5,7 +5,7 @@ import StackOverflow from '../icons/stackoverflow_icon.png'
 
 function Footer() {
     return(
-        <footer className='bg-gray-400 mt-auto py-4 sm:py-10'>
+        <footer className='bg-gray-400 mt-auto py-4 sm:py-4'>
         <ul className='flex flex-col items-center sm:flex-row sm:justify-around'>
             <li className='mb-4'><a href="https://github.com/KevinHenleyCode"><img className='w-6 sm:w-10' src={GitHub} alt="img" /></a></li>
             <li className='mb-4'><a href="https://www.linkedin.com/in/kevin-henley/"><img className='w-6 sm:w-10' src={LinkedIn} alt="img" /></a></li>
