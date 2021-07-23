@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.465682a5.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.ff689f7a.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.ff689f7a.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.060ee780.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.fff0ee98.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.fff0ee98.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.adf930bf.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.adf930bf.js.map",
     "static/js/2.0ebd35fb.chunk.js": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js",
     "static/js/2.0ebd35fb.chunk.js.map": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "static/css/main.465682a5.chunk.css.map": "/React_Portfolio/static/css/main.465682a5.chunk.css.map",
+    "static/css/main.060ee780.chunk.css.map": "/React_Portfolio/static/css/main.060ee780.chunk.css.map",
     "static/js/2.0ebd35fb.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.LICENSE.txt",
+    "static/media/Aggretsukos_Karaoke.05864d92.png": "/React_Portfolio/static/media/Aggretsukos_Karaoke.05864d92.png",
+    "static/media/Coding_Quiz.12e0baa2.png": "/React_Portfolio/static/media/Coding_Quiz.12e0baa2.png",
     "static/media/Ducking_Best_Website.914e4cf5.png": "/React_Portfolio/static/media/Ducking_Best_Website.914e4cf5.png",
+    "static/media/Ecommerce_Backend.ff0533eb.png": "/React_Portfolio/static/media/Ecommerce_Backend.ff0533eb.png",
     "static/media/KevinHenley_Profile.5fbd9ffa.jpg": "/React_Portfolio/static/media/KevinHenley_Profile.5fbd9ffa.jpg",
     "static/media/Kevin_Henley_Resume_2021.84c697e6.pdf": "/React_Portfolio/static/media/Kevin_Henley_Resume_2021.84c697e6.pdf",
     "static/media/PassWord_Generator.82ecf33e.png": "/React_Portfolio/static/media/PassWord_Generator.82ecf33e.png",
@@ -23,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.adf930bf.js",
     "static/js/2.0ebd35fb.chunk.js",
-    "static/css/main.465682a5.chunk.css",
-    "static/js/main.ff689f7a.chunk.js"
+    "static/css/main.060ee780.chunk.css",
+    "static/js/main.fff0ee98.chunk.js"
   ]
 }
