@@ -10,8 +10,7 @@ function AboutMe() {
                 <h2 className='flex justify-center my-5 text-4xl'>Kevin Henley</h2>
                 <div className='my-5 px-20'>
                     <p className='text-2xl'>I started programming in college but didn’t realize until after I had graduated that that would be what I wanted to do.
-                        So, I decided to attend the Rice full stack bootcamp. It has been there that I have learned HTML, CSS, JavaScript, Express, MySQL and Node. I
-                        am now currently working with MongoDB and the rest of the MERN backend.</p>
+                        So, I decided to attend the Rice full stack bootcamp. It has been there that I have learned HTML, CSS, JavaScript, Express, MySQL, Node, React, GraphQL and Apollo.</p>
                 </div>
             </div>
         </div>
