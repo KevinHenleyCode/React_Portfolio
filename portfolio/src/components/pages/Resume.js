@@ -4,13 +4,13 @@ import downloadIcon from '../../icons/download_icon.svg'
 
 function Resume() {
     return(
-         <div className='h-auto mt-auto my-20 py-4 px-10 sm:py-10'>
+         <div className='flex flex-col justify-center m-auto h-auto mt-auto my-20 py-4 px-10 sm:py-10 w-1/2'>
             <div className='mb-20 pb-10 shadow-sm bg-gray-400'>
-                <h2 className='flex justify-center bg-black text-white text-5xl py-2'>Resume</h2>
+                <h2 className='flex justify-center bg-black text-white text-xl sm:text-5xl py-2'>Resume</h2>
                 <div className='flex flex-col items-center my-5 px-20'>
-                    <div className='flex flex-col items-start mb-20'>
+                    <div className='flex flex-col justify-center mb-20'>
 
-                    <h2 className='text-2xl font-bold underline'>Front End Skills:</h2> 
+                    <h2 className='text-md sm:text-2xl font-bold underline'>Front End Skills:</h2> 
                     <ul>
                         <li>HTML</li>
                         <li>CSS</li>
@@ -21,7 +21,7 @@ function Resume() {
                         <li>React</li>
                     </ul>
                     <br/>
-                    <h2 className='text-2xl font-bold underline'>Back End Skills:</h2>
+                    <h2 className='text-md sm:text-2xl font-bold underline'>Back End Skills:</h2>
                     <ul>
                         <li>Node.js</li>
                         <li>Express</li>
