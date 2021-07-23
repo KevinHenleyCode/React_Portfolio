@@ -1,14 +1,14 @@
 import React from "react"
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Project from "./components/Project";
+import Header from "./components/Header"
+import Footer from "./components/Footer"
+import Container from "./components/Container"
 
 
 function App() {
   return (
-    <div>
+    <div className=' bg-gray-800 flex flex-col h-screen'>
       <Header/>
-      <Project/>
+      <Container className='flex-grow'/>
       <Footer/>
     </div>
   );
