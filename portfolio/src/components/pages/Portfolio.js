@@ -3,6 +3,10 @@ import BestWebsite from '../../images/Ducking_Best_Website.png'
 import passwordGen from '../../images/PassWord_Generator.png'
 import readmeGen from '../../images/README_Generator.png'
 
+function Project(props) {
+    return <p>{props.title}</p>
+}
+
 function Portfolio() {
     return(
         <div className='flex flex-col justify-center m-auto h-auto mt-auto my-20 py-4 px-10 sm:py-10 w-1/2'>
@@ -12,6 +16,7 @@ function Portfolio() {
                         <div className='flex items-center flex-col mx-4'>
 
                             <div className="flex flex-col justify-center bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
+                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Ducking Awesome Soundboard'/></h3>
                                 <img className='mb-2' src={BestWebsite} alt="Website picture"/>
                                 <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://kevinhenleycode.github.io/Group_Project_1/">Site</a>
                                 <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500 mb-2" href="https://github.com/KevinHenleyCode/Group_Project_1">GitHub</a>
@@ -23,6 +28,7 @@ function Portfolio() {
                             </div>
                         
                             <div className="flex flex-col justify-center bg-black content-top my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
+                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Password Generator'/></h3>
                                 <img className="mb-2" src={passwordGen} alt="Website picture"/>
                                 <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://kevinhenleycode.github.io/Password_Generator/">Site</a>
                                 <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://github.com/KevinHenleyCode/Password_Generator">GitHub</a>
@@ -30,6 +36,7 @@ function Portfolio() {
                             </div>
 
                             <div className="flex flex-col justify-center bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
+                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'README Generator'/></h3>
                                 <img className="mb-2" src={readmeGen} alt="Website picture"/>
                                  <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://github.com/KevinHenleyCode/README_Generator">Site</a>
                                  <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://github.com/KevinHenleyCode/README_Generator">GitHub</a>
