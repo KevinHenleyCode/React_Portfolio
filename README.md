@@ -54,7 +54,7 @@
 
 ## **Screenshot**
 
-![Screenshot](./src/images/Screenshot.png)
+![Screenshot](./portfolio/src/images/Screenshot.png)
 
 <br>
 <br>
