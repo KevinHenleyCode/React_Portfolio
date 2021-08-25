@@ -6,15 +6,11 @@ function Contact() {
             <div className='mb-20 pb-10 shadow-sm bg-gray-400'>
                     <h2 className='flex justify-center bg-black text-white text-xl sm:text-5xl py-2'>Contact</h2>
                 <div className='px-4 my-5'>
-                    <form className='flex flex-col justify-center font-bold text-sm sm:text-xl'>
-                        <label htmlFor="name">Name:</label> <br/>
-                        <input type="text" name='name' size="auto" className='mb-4' /> <br/>
-                        <label htmlFor="email">Email:</label> <br/>
-                        <input type="email" name='email' size="auto" className='mb-4'/> <br/>
-                        <label htmlFor="message" name='message'>Enter your message here:</label> <br/>
-                        <textarea name="message" cols="auto" rows="10" required className='mb-4 resize'></textarea> <br/>
-                        <button className='text-white bg-red-900 px-2'>Submit</button>
-                    </form>
+                    <h3>For more questions you can reach me at my GitHub or Email: </h3>
+                   <ul className='flex flex-col mt-10'>
+                       <li className='mb-5 list-none no-underline text-red-900 hover:text-white'><a href="https://github.com/KevinHenleyCode">GitHub</a></li>
+                       <li className='list-none no-underline text-red-900 hover:text-white'><a href="kevinhenleyinfo@gmail.com">kevinhenleyinfo@gmail.com</a></li>
+                   </ul>
                 </div>
             </div>
         </div>
