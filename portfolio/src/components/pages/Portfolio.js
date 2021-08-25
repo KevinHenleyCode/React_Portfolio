@@ -21,7 +21,7 @@ function Portfolio() {
                             <div className="flex flex-col justify-center bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
                                 <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Ducking Awesome Soundboard'/></h3>
                                 <img className='mb-2' src={BestWebsite} alt="Website picture"/>
-                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://github.com/KevinHenleyCode/Ducking-Awesome-Soundboard">Site</a>
+                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://kevinhenleycode.github.io/Ducking-Awesome-Soundboard/">Site</a>
                                 <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500 mb-2" href="https://github.com/KevinHenleyCode/Group_Project_1">GitHub</a>
                                 <p className="flex justify-start text-gray-200 ">- Team Mongoose has build an unique soundboard thats allows the stressed indvidual to let go of some frustration. This app
                                 runs in the browser and features dynamic HTML and CSS (Bulma), while retrieving data from two different server side APIs
