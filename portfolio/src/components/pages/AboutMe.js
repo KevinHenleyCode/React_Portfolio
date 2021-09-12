@@ -3,7 +3,9 @@ import profilePic from '../../images/KevinHenley_Profile.jpg'
 
 function AboutMe() {
     return(
-        <div className='flex flex-col justify-center m-auto sm:mb-0 h-auto mt-auto my-20 py-4 px-10 sm:py-10 w-11/12 lg:w-1/2'>
+        <div className='flex flex-col justify-center m-auto sm:mb-0q
+        exit
+         h-auto mt-auto my-20 py-4 px-10 sm:py-10 w-11/12 lg:w-1/2'>
             <div className='mb-20 pb-10 shadow-sm bg-gray-400 w-full'>
                 <h2 className='flex justify-center bg-black text-white text-xl sm:text-5xl py-2'>AboutMe</h2>
                     
