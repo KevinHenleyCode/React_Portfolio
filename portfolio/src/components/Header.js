@@ -5,7 +5,7 @@ import Container from './Container'
 function Header() {
     return(
         <div>
-            <header className='flex justify-center py-3 text-4xl bg-gray-400'>Portfolio</header>
+            <header className='flex justify-center py-3 text-4xl bg-gray-400 shadow-2xl'>Portfolio</header>
              <Container/>
         </div>
     )
