@@ -5,6 +5,7 @@ import readmeGen from '../../images/README_Generator.png'
 import Ecommerce from '../../images/Ecommerce_Backend.png'
 import Quiz from '../../images/Coding_Quiz.png'
 import Bar from '../../images/Aggretsukos_Karaoke.png'
+import Palace from '../../images/Scissors_Palace.png'
 
 function Project(props) {
     return <p>{props.title}</p>
@@ -17,6 +18,14 @@ function Portfolio() {
                 <h2 className='flex justify-center bg-black rounded-t-xl text-white text-xl sm:text-5xl py-2'>Portfolio</h2>
                 
                         <div className='flex items-center flex-col mx-4'>
+
+                            <div className="flex flex-col justify-center rounded-xl bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
+                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Scissors Palace'/></h3>
+                                <img className='mb-2' src={Palace} alt="Website picture"/>
+                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://scissors-palace.herokuapp.com/">Site</a>
+                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500 mb-2" href="https://github.com/KevinHenleyCode/Scissors-Palace">GitHub</a>
+                                <p className="flex justify-start text-gray-200 ">- A MERN full-stack e-commerce website, featuring Mongoose/MongoDB, Express, React, and Node.js to demo a salon/barbershop website.</p>
+                            </div>
 
                             <div className="flex flex-col justify-center rounded-xl bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
                                 <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Ducking Awesome Soundboard'/></h3>
