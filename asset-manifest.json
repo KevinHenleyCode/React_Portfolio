@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.e43ee4f9.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.1a3b0576.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.1a3b0576.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.a894928a.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.c57d0b8b.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.c57d0b8b.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.adf930bf.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.adf930bf.js.map",
     "static/js/2.0ebd35fb.chunk.js": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js",
     "static/js/2.0ebd35fb.chunk.js.map": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "static/css/main.e43ee4f9.chunk.css.map": "/React_Portfolio/static/css/main.e43ee4f9.chunk.css.map",
+    "static/css/main.a894928a.chunk.css.map": "/React_Portfolio/static/css/main.a894928a.chunk.css.map",
     "static/js/2.0ebd35fb.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.LICENSE.txt",
     "static/media/Aggretsukos_Karaoke.05864d92.png": "/React_Portfolio/static/media/Aggretsukos_Karaoke.05864d92.png",
     "static/media/Coding_Quiz.12e0baa2.png": "/React_Portfolio/static/media/Coding_Quiz.12e0baa2.png",
@@ -18,6 +18,7 @@
     "static/media/Kevin_Henley_Resume_2021.80e7a0d8.pdf": "/React_Portfolio/static/media/Kevin_Henley_Resume_2021.80e7a0d8.pdf",
     "static/media/PassWord_Generator.82ecf33e.png": "/React_Portfolio/static/media/PassWord_Generator.82ecf33e.png",
     "static/media/README_Generator.bb1617e5.png": "/React_Portfolio/static/media/README_Generator.bb1617e5.png",
+    "static/media/Scissors_Palace.9bcbe995.png": "/React_Portfolio/static/media/Scissors_Palace.9bcbe995.png",
     "static/media/download_icon.d992701d.svg": "/React_Portfolio/static/media/download_icon.d992701d.svg",
     "static/media/github_icon.1c95b85d.png": "/React_Portfolio/static/media/github_icon.1c95b85d.png",
     "static/media/linkedin_icon.0d52768f.png": "/React_Portfolio/static/media/linkedin_icon.0d52768f.png",
@@ -26,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.adf930bf.js",
     "static/js/2.0ebd35fb.chunk.js",
-    "static/css/main.e43ee4f9.chunk.css",
-    "static/js/main.1a3b0576.chunk.js"
+    "static/css/main.a894928a.chunk.css",
+    "static/js/main.c57d0b8b.chunk.js"
   ]
 }
