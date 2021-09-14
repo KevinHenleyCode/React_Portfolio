@@ -8,7 +8,7 @@ function AboutMe() {
                 <h2 className='flex justify-center bg-black rounded-t-xl text-white text-xl sm:text-5xl py-2'>AboutMe</h2>
                     
                 <div className='flex flex-col justify-center'>
-                    <img className='container mx-auto flex justify-center my-5 w-60' src={profilePic} alt='Profile picture'/>
+                    <img className='container mx-auto flex justify-center my-5 w-60 rounded-full border-8 shadow-sm border-red-900' src={profilePic} alt='Profile picture'/>
                     <h2 className='flex justify-center my-5 text-xl sm:text-4xl'>Kevin Henley</h2>
                     <div className='flex flex-col justify-start my-5 px-5'>
                         <p className='sm:text-2xl text-sm'>I started programming in college but didn’t realize until after I had graduated that that would be what I wanted to do.
