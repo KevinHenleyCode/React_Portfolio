@@ -4,7 +4,7 @@
 <br>
 
 ## **Description**
-* My portfolio built in React.JS.
+* A collection of all my work over my career as a full stack developer created with React.js.
 <br>
 <br>
 
@@ -24,7 +24,7 @@
 <br>
 
 ## **Usage**
-* This makes it much easier to go back an add new thing with Reacts great modularity.
+* a way to display the work that I've done over my career and with using react making it easier to add new content while keeping the site fast and responsive.
 <br>
 <br>
 
@@ -55,6 +55,9 @@
 ## **Screenshot**
 
 ![Screenshot](./portfolio/src/images/Screenshot.png)
+</br>
+</br>
+![Screenshot 2](./portfolio/src/images/Screenshot_2.png)
 
 <br>
 <br>
