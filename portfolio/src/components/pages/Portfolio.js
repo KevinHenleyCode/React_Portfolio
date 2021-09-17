@@ -1,6 +1,5 @@
 import React from 'react'
 import BestWebsite from '../../images/Ducking_Best_Website.png'
-import passwordGen from '../../images/PassWord_Generator.png'
 import passwordGenV2 from '../../images/PassWordV2.png'
 import readmeGen from '../../images/README_Generator.png'
 import Ecommerce from '../../images/Ecommerce_Backend.png'
