@@ -1,6 +1,7 @@
 import React from 'react'
 import BestWebsite from '../../images/Ducking_Best_Website.png'
 import passwordGen from '../../images/PassWord_Generator.png'
+import passwordGenV2 from '../../images/PassWordV2.png'
 import readmeGen from '../../images/README_Generator.png'
 import Ecommerce from '../../images/Ecommerce_Backend.png'
 import Quiz from '../../images/Coding_Quiz.png'
@@ -38,13 +39,13 @@ function Portfolio() {
                                 soundboard is interactive, as it requries user input to work. It uses the local storage to save the names until a reset
                                 is desired.</p>
                             </div>
-                        
-                            <div className="flex flex-col justify-center rounded-xl bg-black content-top my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
-                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Password Generator'/></h3>
-                                <img className="mb-2" src={passwordGen} alt="Website picture"/>
-                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://kevinhenleycode.github.io/Password_Generator/">Site</a>
-                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://github.com/KevinHenleyCode/Password_Generator">GitHub</a>
-                                <p className="flex justify-start text-gray-200 ">- The point of this project was to get more familiar with JavaScript by creating a password generator</p>
+
+                            <div className="flex flex-col justify-center rounded-xl bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
+                                <h3 className="flex justify-center mb-2 text-red-500 text-2xl"><Project title = 'Password Generator V2'/></h3>
+                                <img className='mb-2' src={passwordGenV2} alt="Website picture"/>
+                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500" href="https://kevinhenleycode.github.io/Password-Genrator-V2/">Site</a>
+                                <a className="flex justify-start mb-2 underline text-green-200 hover:text-red-500 mb-2" href="https://github.com/KevinHenleyCode/Password-Genrator-V2">GitHub</a>
+                                <p className="flex justify-start text-gray-200 ">- Takes in a users choices and then picks a random character from each choice. Then takes all characters, concatenates and randomizes them into one string.</p>
                             </div>
 
                             <div className="flex flex-col justify-center rounded-xl bg-black my-4 mx-2 border-4 shadow-sm border-red-900 p-2 w-full md:h-full">
