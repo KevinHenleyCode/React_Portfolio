@@ -24,9 +24,20 @@
 <br>
 
 ## **Usage**
-* a way to display the work that I've done over my career and with using react making it easier to add new content while keeping the site fast and responsive.
+* a way to display the work that I've done over my career and with react making it easier to add new content while keeping the site fast and responsive.
 <br>
 <br>
+
+## **Updates**
+* Projects
+  * added Scissors Palace
+  * added Password Generator V2
+* UI
+  * updated the NavBar
+  * fixed the margin at the bottom of about and resume page 
+<br>
+<br>
+
 
 ## **License**
 ### *MIT* <br>
