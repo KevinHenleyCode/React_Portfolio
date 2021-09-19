@@ -25,7 +25,7 @@ export default function Container() {
     const pageChange = (page) => setPage(page)
 
     return (
-        <div className=''>
+        <div className='h-full'>
             
             <Nav currentPage={currentPage} pageChange={pageChange}/>
             {render()}
