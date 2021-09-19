@@ -5,9 +5,9 @@ import Footer from "./components/Footer"
 
 function App() {
   return (
-    <div className='bg-white flex flex-col'>
-      <Header/>
-      <Footer/>
+    <div className='bg-white flex flex-col h-screen justify-between'>
+        <Header/>
+        <Footer/>
     </div>
   );
 }
