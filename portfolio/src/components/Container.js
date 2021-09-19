@@ -25,7 +25,7 @@ export default function Container() {
     const pageChange = (page) => setPage(page)
 
     return (
-        <div className='bg-gray-800'>
+        <div className=''>
             
             <Nav currentPage={currentPage} pageChange={pageChange}/>
             {render()}

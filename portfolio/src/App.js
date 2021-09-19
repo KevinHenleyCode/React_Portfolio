@@ -5,7 +5,7 @@ import Footer from "./components/Footer"
 
 function App() {
   return (
-    <div className=' bg-gray-800 flex flex-col h-screen'>
+    <div className='bg-white flex flex-col'>
       <Header/>
       <Footer/>
     </div>
