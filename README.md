@@ -34,7 +34,8 @@
   * added Password Generator V2
 * UI
   * updated the NavBar
-  * fixed the margin at the bottom of about and resume page 
+  * fixed the margin at the bottom of about and resume page
+  * changed color scheme
 <br>
 <br>
 
