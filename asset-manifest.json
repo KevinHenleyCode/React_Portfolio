@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.bf967fe5.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.906de16a.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.906de16a.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.f4890547.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.3d0a09fd.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.3d0a09fd.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.adf930bf.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.adf930bf.js.map",
     "static/js/2.0ebd35fb.chunk.js": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js",
     "static/js/2.0ebd35fb.chunk.js.map": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "static/css/main.bf967fe5.chunk.css.map": "/React_Portfolio/static/css/main.bf967fe5.chunk.css.map",
+    "static/css/main.f4890547.chunk.css.map": "/React_Portfolio/static/css/main.f4890547.chunk.css.map",
     "static/js/2.0ebd35fb.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js.LICENSE.txt",
     "static/media/Aggretsukos_Karaoke.05864d92.png": "/React_Portfolio/static/media/Aggretsukos_Karaoke.05864d92.png",
     "static/media/Coding_Quiz.12e0baa2.png": "/React_Portfolio/static/media/Coding_Quiz.12e0baa2.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.adf930bf.js",
     "static/js/2.0ebd35fb.chunk.js",
-    "static/css/main.bf967fe5.chunk.css",
-    "static/js/main.906de16a.chunk.js"
+    "static/css/main.f4890547.chunk.css",
+    "static/js/main.3d0a09fd.chunk.js"
   ]
 }
