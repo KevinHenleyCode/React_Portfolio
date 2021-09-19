@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.eb8aed85.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.91cb483e.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.91cb483e.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.a9631ee7.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.a9631ee7.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.adf930bf.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.adf930bf.js.map",
     "static/js/2.0ebd35fb.chunk.js": "/React_Portfolio/static/js/2.0ebd35fb.chunk.js",
@@ -20,13 +20,12 @@
     "static/media/README_Generator.bb1617e5.png": "/React_Portfolio/static/media/README_Generator.bb1617e5.png",
     "static/media/Scissors_Palace.9bcbe995.png": "/React_Portfolio/static/media/Scissors_Palace.9bcbe995.png",
     "static/media/download_icon.d992701d.svg": "/React_Portfolio/static/media/download_icon.d992701d.svg",
-    "static/media/github_icon.a6956aa7.png": "/React_Portfolio/static/media/github_icon.a6956aa7.png",
-    "static/media/stackoverflow_icon.11759b1d.png": "/React_Portfolio/static/media/stackoverflow_icon.11759b1d.png"
+    "static/media/github_icon.a6956aa7.png": "/React_Portfolio/static/media/github_icon.a6956aa7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.adf930bf.js",
     "static/js/2.0ebd35fb.chunk.js",
     "static/css/main.eb8aed85.chunk.css",
-    "static/js/main.91cb483e.chunk.js"
+    "static/js/main.a9631ee7.chunk.js"
   ]
 }
