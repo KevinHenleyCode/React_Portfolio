@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Nav({ currentPage, pageChange }) {
     return(
             <div className='flex flex-col sm:items-end sm:bg-transparent bg-green-500 items-center mr-auto py-2 sm:py-4'>
