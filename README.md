@@ -41,6 +41,7 @@
 
 ## **Future**
   * create hamburger menu for mobile view
+  * be able to toggle between dark and light mode
 <br>
 <br>
 
