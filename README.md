@@ -9,17 +9,11 @@
 <br>
 
 ## **Table of Contents**
-- [Installation](#Installation) <br>
 - [Usage](#Usage) <br>
 - [License](#License) <br>
 - [Contributing](#Contributing) <br>
 - [Tests](#Tests) <br>
 - [Questions](#Questions) <br>
-<br>
-<br>
-
-## **Installation**
-* There is no installation.
 <br>
 <br>
 
