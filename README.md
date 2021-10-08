@@ -12,7 +12,6 @@
 - [Usage](#Usage) <br>
 - [License](#License) <br>
 - [Contributing](#Contributing) <br>
-- [Tests](#Tests) <br>
 - [Questions](#Questions) <br>
 <br>
 <br>
@@ -46,12 +45,6 @@
 
 ## **Contributing**
 * No contributions at this time.
-<br>
-<br>
-
-## **Tests**
-    
-* No tests
 <br>
 <br>
 
