@@ -5,7 +5,7 @@ function AboutMe() {
     return(
         <div className='flex flex-col justify-center m-auto sm:mb-0q exit h-auto text-white py-4 px-10 mt-auto sm:py-10 w-11/12 lg:w-1/2'>
             <div className='mb-20 pb-10 shadow-sm rounded-xl bg-gray-900 w-full'>
-                <h2 className='flex justify-center bg-green-500 rounded-t-xl text-xl text-black sm:text-5xl py-2'>AboutMe</h2>
+                <h2 className='flex justify-center bg-green-500 rounded-t-xl text-xl text-black sm:text-5xl py-2'>About Me</h2>
                     
                 <div className='flex flex-col justify-center px-2'>
                     <h2 className='flex justify-center my-5 text-xl sm:text-4xl'>Kevin Henley</h2>
