@@ -27,7 +27,14 @@ function Resume() {
                         <li>Express</li>
                         <li>MySQL</li>
                         <li>MongoDB</li>
-                    </ul> 
+                        <li>PHP</li>
+                    </ul>
+                    <br />
+                    <h2 className='text-md sm:text-2xl font-bold underline'>Other Tech:</h2>
+                    <ul>
+                        <li>Linux</li>
+                        <li>Apache</li>
+                    </ul>
                     </div>
                 </div>
 
