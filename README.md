@@ -33,8 +33,9 @@
 <br>
 
 ## **Future**
-  * create hamburger menu for mobile view
-  * be able to toggle between dark and light mode
+  * Create hamburger menu for mobile view.
+  * Be able to toggle between dark and light mode.
+  * Recreate the contact page to take in form information.
 <br>
 <br>
 
